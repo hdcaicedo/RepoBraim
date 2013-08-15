@@ -70,6 +70,8 @@ public class MainGui extends JFrame {
 	private static DBCollection table;
 	private static BasicDBObject document;
 
+	
+	//cambioooooooooooooooooooooooooooo
 	/**
 	 * Launch the application.
 	 */
