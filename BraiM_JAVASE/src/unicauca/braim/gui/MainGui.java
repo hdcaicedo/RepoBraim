@@ -70,11 +70,12 @@ public class MainGui extends JFrame {
 	private static DBCollection table;
 	private static BasicDBObject document;
 
-	
-	//cambiooooooooooooooooooooooooooookjhgk
+	//VErsion para empezar
+
 	/**
 	 * Launch the application.
 	 */
+	
 	public static void main(String[] args) {
 		
 		definirMongoDb();
