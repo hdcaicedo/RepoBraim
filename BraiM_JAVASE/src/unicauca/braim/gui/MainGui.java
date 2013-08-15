@@ -71,7 +71,7 @@ public class MainGui extends JFrame {
 	private static BasicDBObject document;
 
 	
-	//cambioooooooooooooooooooooooooooo
+	//cambiooooooooooooooooooooooooooookjhgk
 	/**
 	 * Launch the application.
 	 */
